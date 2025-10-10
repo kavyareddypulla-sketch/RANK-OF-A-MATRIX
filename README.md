@@ -13,7 +13,6 @@ To write a python program to find the rank of a matrix
 
 ## Output:<img width="273" height="162" alt="image" src="https://github.com/user-attachments/assets/2582bf7f-16e2-40fa-b113-b23caec6bfe1" />
 
-
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
